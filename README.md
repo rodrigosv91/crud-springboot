@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" width="180">
-  <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="220">
+  <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="200">
 </h1>
 
 <p align="center">Criação, leitura, atualização e exclusão de arquivos usando Spring Boot, Spring MVC e Thymeleaf </p>
